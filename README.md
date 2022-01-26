@@ -535,7 +535,7 @@ Date:   Sat Mar 15 10:31:28 2008 -0700
 
 ### SIT合并机机制（单条提交记录合并、退回）
 
-![image-20220125191747566](C:\Users\23511\AppData\Roaming\Typora\typora-user-images\image-20220125191747566.png)
+![image-20220125191747566](image/单条记录操作.png)
 
 挑拣合并，及是将某一个分支的部分提交合并到另一个分支上
 
