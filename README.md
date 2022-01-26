@@ -525,11 +525,11 @@ Date:   Sat Mar 15 10:31:28 2008 -0700
 
 ### 分支合并机制
 
-![image-20220125190511816](C:\Users\23511\AppData\Roaming\Typora\typora-user-images\image-20220125190511816.png)
+![image-20220125190511816](image/SIT代码机制.png)
 
-![image-20220125190930318](C:\Users\23511\AppData\Roaming\Typora\typora-user-images\image-20220125190930318.png)
+![image-20220125190930318](image/UAT生产机制.png)
 
-> 如何发版
+> 问题：如何发版
 
 
 
